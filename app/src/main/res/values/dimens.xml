@@ -4,6 +4,6 @@
     <dimen name="large_margin">16dp</dimen>
     <dimen name="small_text">12sp</dimen>
     <dimen name="larg_text">55sp</dimen>
-    <dimen name="stroke">1dp</dimen>
+    <dimen name="stroke">5dp</dimen>
     <dimen name="redius">1dp</dimen>
 </resources>

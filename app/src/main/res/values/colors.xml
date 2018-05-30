@@ -4,6 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="transparent">#00ffffff</color>
-    <color name="semi_transparent">#55FF4081</color>
-    <color name="black">#000000</color>
+    <color name="semi_transparent">#22000000</color>
+    <color name="text_primary">#EF6C00</color>
+    <color name="stroke">#1E88E5</color>
 </resources>
